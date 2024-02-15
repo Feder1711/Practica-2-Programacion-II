@@ -1,4 +1,4 @@
-#MÉTODO MONTECARLO
+# MÉTODO MONTECARLO
 
 Este proyecto implementa un algoritmo para calcular una aproximación al número Pi utilizando el método de Montecarlo. El programa genera un número definido de puntos aleatorios en un cuadrado unitario y determina cuántos de esos puntos caen dentro de un círculo inscrito en el cuadrado. Luego, utiliza la relación entre el área del círculo y el área del cuadrado para calcular una aproximación al valor de Pi.
 
