@@ -20,7 +20,7 @@ Este proyecto implementa un algoritmo para calcular una aproximación al número
 
 - Reemplaza https://github.com/nombreusuario/nombrerepositorio.git con la URL del repositorio que deseas clonar, en este caso:
 
-*|https://github.com/Feder1711/Pr-ctica-1-Programaci-n-II.git|*
+*|https://github.com/Feder1711/Practica-2-Programacion-II.git|*
 
 - Git clonará el repositorio en tu directorio de destino. Verás un mensaje que indica que el clon se ha completado.
 
